@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://scenes/power/PowerReload.tscn" type="PackedScene" id=1]
+[ext_resource path="res://assets/sprites/power/power_damage.png" type="Texture" id=2]
+
+[node name="PowerDamage" instance=ExtResource( 1 )]
+texture = ExtResource( 2 )
+variable_name = "damage"
+variable_value = 3.0
+power_time = 4.0

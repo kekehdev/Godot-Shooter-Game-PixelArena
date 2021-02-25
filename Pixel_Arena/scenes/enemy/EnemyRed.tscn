@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://scenes/enemy/Enemy.tscn" type="PackedScene" id=1]
+[ext_resource path="res://assets/sprites/enemies/enemy_red.png" type="Texture" id=2]
+
+[node name="EnemyRed" instance=ExtResource( 1 )]
+texture = ExtResource( 2 )
+hp = 2
