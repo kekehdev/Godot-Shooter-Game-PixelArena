@@ -1,2 +1,3 @@
-# Godot-Shooter-Game-PixelArena
-My third Godot game
+# PixelArena
+
+Special thanks to Clécio Espindola GameDev channel, PlugWorld and dafont.com
