@@ -1,3 +1,3 @@
 # PixelArena
 
-Special thanks to Clécio Espindola GameDev channel, PlugWorld and dafont.com
+Special thanks to Clécio Espindola GameDev channel, PlugWorld channel and dafont.com
